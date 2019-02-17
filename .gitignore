@@ -2,7 +2,6 @@
 */.terraform
 */*.tfstate
 */*.tfstate.backup
-02_variables/terraform.tfvars
 */terraform.tfvars
 
 
