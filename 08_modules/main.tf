@@ -12,6 +12,6 @@ module "module_example_EC2" {
 module "module_example_KEY_PAIR" {
   source             = "./KEY_PAIR"
 
-  KEY_NAME = "${var.MODULE_KEY_NAME}"
+  KEY_NAME = "${var.INSTANCE_KEY_NAME}"
   PUBLIC_KEY = "${var.PATH_TO_PUBLIC_KEY}"
 }
