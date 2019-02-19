@@ -1,11 +1,17 @@
 .idea/
+.DS_Store
+
+*/*/.terraform
+*/*/*.tfstate
+*/*/*.tfstate.backup
+*/*/terraform.tfvars
+*/*/*.tfstate.lock.info
 
 */.terraform
 */*.tfstate
 */*.tfstate.backup
 */terraform.tfvars
 */*.tfstate.lock.info
-
 
 mykey
 mykey.pub
