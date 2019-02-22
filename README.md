@@ -1,8 +1,8 @@
 # UDEMY_DevOps_Terraform
 
 ### Terraform Command Overview
-* Terraform is very much focuessed on the resource definitions
-* It has a <b><limited toolset</b> available to modify, import, create these resources definitions
+* Terraform is very much focused on the resource definitions
+* It has a <b>limited toolset</b> available to modify, import, create these resources definitions
 
 | Command | Description |
 | --- | --- |
