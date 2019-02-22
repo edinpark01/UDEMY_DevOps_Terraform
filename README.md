@@ -12,7 +12,7 @@
 | terraform get| Download and update modules |
 |terraform graph| Creates a visual representation of a configuration or execution plan|
 |terraform import [options] ADDRESS ID|Import will try and find the infrastructure resource identified with ID and import the state into terraform.tfstate with resource id ADDRESS|
-|terrafpr, [options] [NAME]| Output any of your resources. Using NAME will only output a specific resource|
+|terraform, [options] [NAME]| Output any of your resources. Using NAME will only output a specific resource|
 |terraform plan|terraform plan, show the changes TO BE made to the infrastructure|
 |terraform refresh|Refresh the remote state. Can identify differences between state file and remote state|
 |terraform remote|Configure remote state storage|
